@@ -23,3 +23,15 @@
     display: none;
   }
 }
+.navBackground {
+  background-color: #2089dc !important;
+}
+
+.version {
+    
+  margin-right: auto;
+}
+
+.rightAlign{
+    margin-right: 15rem!important;
+}
