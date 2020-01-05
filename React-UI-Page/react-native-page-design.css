@@ -1,4 +1,25 @@
 .features {
   background-color: #f9f9f9;
-  padding: 3rem;
+  padding: 5rem;
+}
+
+.headingFont {
+  color: #2089dc;
+  padding: 5rem;
+}
+
+.headingOne {
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.headingTwo {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+@media only screen and (max-width: 1200px) {
+  .logo {
+    display: none;
+  }
 }
